@@ -1,5 +1,5 @@
 # A study on the paper ‘Dilated Recurrent Neural Networks’
-@author: Lance Zhang
+@author: Lingsong Zhang (Lance Zhang)
 ## Phase 1
 Analyze and summarize the advantages, disadvantages, applications, and contributions of the paper.<br>
 ## Phase 2
